@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046753338389",
+    "project_id": "authforapp-2d12e",
+    "storage_bucket": "authforapp-2d12e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046753338389:android:9973b72f1752f836379a1c",
+        "android_client_info": {
+          "package_name": "com.example.hello_cam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046753338389-8a6t0jjskpppv2psisbbb20suho05rme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjO7KVFB__fn0AMYn0U1nIx1SW1kBajjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046753338389-8a6t0jjskpppv2psisbbb20suho05rme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
